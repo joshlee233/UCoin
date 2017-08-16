@@ -1,10 +1,9 @@
 <head>
-<LINK REL=StyleSheet HREF="style.css" TYPE="text/css" MEDIA=screen>
+<LINK REL=StyleSheet HREF="style.css" TYPE="text/css" MEDIA=screen/>
 <title>Ucoin</title>
 </head>
 
 <body>
-
 <div class="banner"></div>
 
 <h1> Welcome to UCoin's homepage</h1>
