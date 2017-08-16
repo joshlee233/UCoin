@@ -4,7 +4,7 @@
 </head>
 
 <body>
-    <div class="nav"></div>
+    <div class="nav">tt</div>
     <div class="banner">tt</div>
 <h1> Welcome to UCoin's homepage</h1>
 
