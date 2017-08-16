@@ -1,6 +1,5 @@
 <head>
-<LINK REL=StyleSheet href="style.css" TYPE="text/css"/>
-
+<link href="https://joshlee233.github.io/UCoin/style.css" rel="stylesheet">
 <title>Ucoin</title>
 </head>
 
