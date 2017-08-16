@@ -10,7 +10,7 @@ body {
     padding:5px;
     margin:0;
     background-color: #ecf0f1;
-    position:absolute;
+    position:relative;
     left:0;
     right:0;
 }
@@ -20,12 +20,12 @@ body {
     margin: 0;
     padding:0;
     height: 400px;
-  background: aquamarine; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left top, lightgreen, turquoise); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(bottom right, lightgreen, turquoise); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(bottom right, lightgreen, turquoise); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to bottom right, lightgreen, turquoise); /* Standard syntax */
-    position:absolute;
+    background: aquamarine; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, lightgreen, turquoise); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, lightgreen, turquoise); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, lightgreen, turquoise); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, lightgreen, turquoise); /* Standard syntax */
+    position:relative;
     left:0;
     right:0;
     
