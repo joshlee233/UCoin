@@ -1,1 +1,28 @@
+body {
+    margin:0;
+    padding:0;
+    
+}
 
+.nav {
+    height: 40px;
+    width:100%;
+    display: inline-block;
+    padding:0;
+    margin:5px;
+    background-color: 
+}
+
+.banner {
+    width:100%;
+    margin: 0;
+    padding:0;
+    height: 500px;
+    display: inline-block; 
+  background: aquamarine; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top, lightgreen, turquoise); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, lightgreen, turquoise); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, lightgreen, turquoise); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, lightgreen, turquoise); /* Standard syntax */
+    
+}
