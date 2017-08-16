@@ -17,7 +17,7 @@ body {
     width:100%;
     margin: 0;
     padding:0;
-    height: 500px;
+    height: 400px;
     display: inline-block; 
   background: aquamarine; /* For browsers that do not support gradients */
   background: -webkit-linear-gradient(left top, lightgreen, turquoise); /* For Safari 5.1 to 6.0 */
