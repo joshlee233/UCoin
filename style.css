@@ -10,7 +10,7 @@ body {
     padding:5px;
     margin:0;
     background-color: #ecf0f1;
-    position:relative;
+    display: inline-block;
     left:0;
     right:0;
 }
@@ -25,7 +25,7 @@ body {
     background: -o-linear-gradient(bottom right, lightgreen, turquoise); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(bottom right, lightgreen, turquoise); /* For Firefox 3.6 to 15 */
     background: linear-gradient(to bottom right, lightgreen, turquoise); /* Standard syntax */
-    position:relative;
+    display: inline-block;
     left:0;
     right:0;
     
