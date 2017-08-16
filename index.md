@@ -1,6 +1,6 @@
-<!DOCTYPE html>
 <head>
-
+<LINK REL=StyleSheet HREF="style.css" TYPE="text/css" MEDIA=screen>
+<title>Ucoin</title>
 </head>
 
 <body>
